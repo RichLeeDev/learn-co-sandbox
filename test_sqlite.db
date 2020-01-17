@@ -1,0 +1,3 @@
+sqlite> create table
+test_table(id);
+sqlite> .quit
